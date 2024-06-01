@@ -15,7 +15,7 @@ This project is an Express.js application that provides two main functionalities
 
     ```bash
     git clone https://github.com/AKASH021001-0202/nodejs-file-system
-    cd express-timestamp-file-creator
+    cd nodejs-file-system
     ```
 
 2. Install the dependencies.
